@@ -23,7 +23,7 @@ export default function Hero() {
         {/* Logotipo Central */}
         <div className="flex flex-col items-center gap-3">
           <Image
-            src="/Images/logo.png" // Cambia esto por tu logo real
+            src="/Images/Logo.png" // Cambia esto por tu logo real
             alt="Logo de La Cueva"
             width={500}
             height={400}
